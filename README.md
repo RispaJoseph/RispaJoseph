@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Rispa!
 
-<!--
-**RispaJoseph/RispaJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Frontend Developer | Aspiring DevOps Engineer**
 
-Here are some ideas to get you started:
+🌱 Currently learning **DevOps, Kubernetes, and Cloud**  
+🔭 Working on [SkillHub](https://github.com/yourproject) (E-learning platform)  
+📫 Reach me at: rizpahjoseph@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- **Languages:** Python, JavaScript, TypeScript  
+- **Frontend:** React, Redux, HTML, CSS  
+- **Backend:** Django, REST API  
+- **DevOps & Cloud:** Kubernetes, Docker, Jenkins, Terraform, AWS, GCP  
+
+---
+
+## 📊 GitHub Stats
+![Rispa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rispa-joseph&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=react&logoColor=white)](https://yourportfolio.com)
