@@ -15,6 +15,13 @@
 
 ---
 
+## 🚀 Featured Projects
+
+[![Social Connect](https://img.shields.io/badge/SocialConnect-Social%20Media-green?style=for-the-badge&logo=django)](https://rispa-social-connect.netlify.app/login)
+[![Bookstore API](https://img.shields.io/badge/Bookstore-DRF-orange?style=for-the-badge&logo=django)](https://rispa-bookstore.netlify.app/books)
+
+---
+
 
 
 ## 🌐 Connect with Me
