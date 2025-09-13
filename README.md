@@ -18,12 +18,12 @@
 ## 🚀 Featured Projects
 
 [![Social Connect](https://img.shields.io/badge/SocialConnect-Social%20Media-green?style=for-the-badge&logo=django)](https://rispa-social-connect.netlify.app/login)
-[![Bookstore API](https://img.shields.io/badge/Bookstore-DRF-orange?style=for-the-badge&logo=django)](https://rispa-bookstore.netlify.app/books)
+[![Bookstore API](https://img.shields.io/badge/Bookstore-DRF-orange?style=for-the-badge&logo=django)](https://rispa-bookstore.netlify.app)
 
 ---
 
 
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/rispa-joseph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rispa-joseph)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=react&logoColor=white)](https://yourportfolio.com)--!>
