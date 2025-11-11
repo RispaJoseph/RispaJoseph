@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rispa!
 
-💻 **Python Developer | Aspiring DevOps Engineer**
+💻 **Python Developer**
 
 🌱 Currently learning **DevOps, Kubernetes, and Cloud**  
 📫 Reach me at: rizpahjoseph@gmail.com  
