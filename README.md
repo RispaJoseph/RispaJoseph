@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rispa!</h1>
 
-## 🖥️ Python Developer
+## Turning Ideas into Code with Modern Tech & Cloud 🚀☁️✨
 
 👩‍💻 I love building real-world applications using Python and Django.  
 🌱 I’m currently leveling up in DevOps, Cloud, and Kubernetes.  
@@ -28,5 +28,6 @@
 
 
 ## 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=react&logoColor=white)](https://rispajoseph.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rispa-joseph)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=react&logoColor=white)](https://yourportfolio.com)--!>
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=linkedin&logoColor=white)](https://www.instagram.com/rispajoseph/)
