@@ -2,8 +2,11 @@
 
 💻 **Python Developer**
 
-🌱 Currently learning **DevOps, Kubernetes, and Cloud**  
+👩‍💻 I love building real-world applications using **Python and Django**
+🌱 I’m currently leveling up in **DevOps, Cloud, and Kubernetes** 
+😉 Fun fact: I enjoy challenging myself by expanding my skills and exploring new technologies through hands-on projects.
 📫 Reach me at: rizpahjoseph@gmail.com  
+
 
 ---
 
