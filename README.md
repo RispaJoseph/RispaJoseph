@@ -30,4 +30,4 @@
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=react&logoColor=white)](https://rispajoseph.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rispa-joseph)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=linkedin&logoColor=white)](https://www.instagram.com/rispajoseph/)
+[![Instagram](https://img.shields.io/badge/Instagram-magenta?logo=linkedin&logoColor=white)](https://www.instagram.com/rispajoseph/)
