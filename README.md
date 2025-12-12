@@ -14,7 +14,7 @@
 - **Languages:** Python 
 - **Frontend:** React, Redux, HTML, CSS  
 - **Backend:** Django, REST API  
-- **DevOps & Cloud:** Kubernetes, Docker, AWS, GCP  
+- **DevOps & Cloud:** Kubernetes, Docker, AWS, GCP, CI/CD
 
 ---
 
