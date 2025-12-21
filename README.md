@@ -13,7 +13,7 @@
 ## 🚀 Tech Stack
 - **Languages:** Python 
 - **Frontend:** React, HTML, CSS  
-- **Backend:** Django, REST API  
+- **Backend:** Django, REST API, DRF
 - **DevOps & Cloud:** Kubernetes, Docker, AWS, GCP, CI/CD, Git
 
 ---
