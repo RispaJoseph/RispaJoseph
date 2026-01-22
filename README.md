@@ -3,10 +3,11 @@
 ## Turning Ideas into Scalable Code with Python, Data & Cloud 🕷️🚀☁️
 
 
-👩‍💻 I love building real-world applications using Python, Django, and data-driven solutions like web scraping.
-🌱 Interested in exploring DevOps, Cloud technologies, Kubernetes, and automation, and learning them through hands-on practice.
-😉 Fun fact: I enjoy challenging myself by expanding my skills and exploring new technologies through hands-on projects.  
-📫 Reach me at: rizpahjoseph@gmail.com  
+- 👩‍💻 I love building real-world applications using Python, Django, and data-driven solutions like web scraping.
+- 🌱 Interested in exploring DevOps, Cloud technologies, Kubernetes, and automation, and learning them through hands-on practice.
+- 😉 Fun fact: I enjoy challenging myself by expanding my skills and exploring new technologies through hands-on projects.
+- 📫 Reach me at: rizpahjoseph@gmail.com
+
 
 
 ---
