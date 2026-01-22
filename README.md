@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Rispa!</h1>
 
-## Turning Ideas into Code with Modern Tech & Cloud 🚀☁️✨
+## Turning Ideas into Scalable Code with Python, Data & Cloud 🕷️🚀☁️
 
-👩‍💻 I love building real-world applications using Python and Django.  
-🌱 I’m currently leveling up in DevOps, Cloud, and Kubernetes.  
+
+👩‍💻 I love building real-world applications using Python, Django, and data-driven solutions like web scraping.
+🌱 Interested in exploring DevOps, Cloud technologies, Kubernetes, and automation, and learning them through hands-on practice.
 😉 Fun fact: I enjoy challenging myself by expanding my skills and exploring new technologies through hands-on projects.  
 📫 Reach me at: rizpahjoseph@gmail.com  
 
@@ -11,9 +12,10 @@
 ---
 
 ## 🚀 Tech Stack
-- **Languages:** Python 
+- **Languages:** Python
 - **Frontend:** React, HTML, CSS, JavaScript  
 - **Backend:** Django, REST API, DRF
+- **Web Scraping:** BeautifulSoup, Requests, Selenium, Scrapy
 - **DevOps & Cloud:** Kubernetes, Docker, AWS, GCP, CI/CD, Git
 
 ---
