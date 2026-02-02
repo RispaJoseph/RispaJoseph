@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rispa!</h1>
 
-## Turning Ideas into Scalable Code with Python, Data & Cloud 🕷️🚀☁️
+## Turning Ideas into Scalable Code with Python, Data & Cloud 🚀☁️
 
 
 - 👩‍💻 I love building real-world applications using Python, Django, and data-driven solutions like web scraping.
